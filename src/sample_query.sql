@@ -18,5 +18,14 @@ WITH sample_data AS
         ,'with'
         ,'hardcoded'
         ,'values'
+    UNION
+        3
+        ,'this'
+        ,'is'
+        ,'third'
+        ,'row'
+        ,'with'
+        ,'hardcoded'
+        ,'values'
 )
 SELECT * FROM sample_data;
