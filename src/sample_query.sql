@@ -29,3 +29,4 @@ WITH sample_data AS
         ,'values'
 )
 SELECT * FROM sample_data;
+LIMIT 20
