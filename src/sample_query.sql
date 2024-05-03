@@ -28,5 +28,5 @@ WITH sample_data AS
         ,'hardcoded'
         ,'values'
 )
-SELECT * FROM sample_data;
-LIMIT 20
+SELECT * FROM sample_data
+LIMIT 20;
